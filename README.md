@@ -3,8 +3,8 @@
 
 ## Work Experience
 
-### (모빈)[https://www.mobin-inc.com/]
+### [모빈](https://www.mobin-inc.com/)
 ~~
 
-### (SGU)[http://www.sgu.co.kr/summary/summary]
+### [SGU](http://www.sgu.co.kr/summary/summary)
 ~~
