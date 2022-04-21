@@ -3,12 +3,11 @@
 <image src="https://user-images.githubusercontent.com/56568571/164507647-f2b57268-aa87-4128-8d80-3c190e0c5ed8.jpg" height="130" width="130">
  <br>
   **Contact**
-  <br>Email : dkaskgkdua@gmail.com
-  <br>Phone : 010-6348-5549
+  <br> - 📫 Email : dkaskgkdua@gmail.com
  
   **Channel**
-  <br>[Blog](https://song8420.tistory.com/) 
-  <br>[Github](https://github.com/dkaskgkdua)
+  <br> - 🌱 [Blog](https://song8420.tistory.com/) 
+  <br> - 🌱 [Github](https://github.com/dkaskgkdua)
 
 
 ## Work Experience
