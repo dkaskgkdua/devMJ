@@ -1,5 +1,6 @@
 # 도전을 즐기는 개발자 송민준
-### Profile
+  ---
+## Profile
 안녕하세요. 3년 차 도전을 즐기는 개발자 송민준입니다.<br><br>
 <image src="https://user-images.githubusercontent.com/56568571/164507647-f2b57268-aa87-4128-8d80-3c190e0c5ed8.jpg" height="130" width="130">
   <br>
@@ -9,7 +10,7 @@
   <br> - 🌱 [Github](https://github.com/dkaskgkdua)
 
   ---
-### Introduce
+## Introduce
  3년 차 풀스택 개발자로 스타트업에서 웹 서비스를 개발/운영하고 있습니다.<br>
  떠오르는 라이크 커머스 분야에서 성공적인 서비스를 위해 도전중입니다.<br>
  Spring과 Vue, AWS를 이용하여 백엔드, 프론트 프로젝트를 설계부터 배포, 운영까지 해본 경험을 가지고 있습니다.<br>
@@ -22,8 +23,8 @@
   ---
 ## Work Experience
 
-#### (주)모빈, 플랫폼 개발, 풀스택 개발자 **2021.05 ~ 재직중** 
-##### 파트너센터([Site Link](https://partner.checknbuy.co.kr/))
+### (주)모빈, 플랫폼 개발, 풀스택 개발자 **2021.05 ~ 재직중** 
+#### 파트너센터([Site Link](https://partner.checknbuy.co.kr/))
 `인플루언서와 브랜드사를 연결하여 공동구매를 진행하는 서비스 제공 사이트`
 <details>
   <summary>백엔드</summary>
@@ -46,12 +47,12 @@
 &nbsp;- css 전처리기 도입 및 개발<br>
 </details> 
   
-##### 체크앤링크([Site Link](https://link.checknbuy.co.kr/))
+#### 체크앤링크([Site Link](https://link.checknbuy.co.kr/))
 `인플루언서들을 위한 아웃링크 서비스 제공 사이트`
   - 프로젝트 환경 구축(Spring, Nuxt.js, Vuetify)
   - 반응형 웹 페이지 개발
 
-#### (주)에스지유, 솔루션 개발, 풀스택 개발자 **2020.03 ~ 2021.04** SG그룹 IT계열사 
+### (주)에스지유, 솔루션 개발, 풀스택 개발자 **2020.03 ~ 2021.04** SG그룹 IT계열사 
 
 
  
