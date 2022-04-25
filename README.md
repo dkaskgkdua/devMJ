@@ -35,7 +35,7 @@
 ## Work Experience
 
 ### (주)모빈, 플랫폼 개발, 풀스택 개발자 **2021.05 ~ 재직중** 
-#### 파트너센터([Site Link](https://partner.checknbuy.co.kr/))
+#### 파트너센터([Site Link](https://partner.checknbuy.co.kr/)) **2022.02 ~ **
 `인플루언서와 브랜드사를 연결하여 공동구매를 진행하는 서비스 제공 사이트`
 <details>
   <summary>백엔드</summary>
@@ -45,7 +45,7 @@
 &nbsp;- 엑셀 일괄 처리, 다운로드 등 엑셀 기능 개발<br>
 &nbsp;- 결제 정보 및 CS관리 기능 개발<br>
 &nbsp;- 스윗트레커 연동 배송조회 api 개발<br>
-&nbsp;- 공통코드 개념 도입 및 개발<br>
+&nbsp;- 공통코드 개념 도입 및 개발(db function 및 공통js, api)<br>
 &nbsp;- 공동구매 딜 관리 개발<br>
 &nbsp;- 인플루언서 및 브랜드사 매칭 건 공동구매 딜 관리<br>
 &nbsp;- 공동구매 사이트 체크앤바이에 노출되는 데이터 세팅<br>
@@ -58,7 +58,7 @@
 &nbsp;- css 전처리기 도입 및 개발<br>
 </details> 
   
-#### 체크앤링크([Site Link](https://link.checknbuy.co.kr/))
+#### 체크앤링크([Site Link](https://link.checknbuy.co.kr/)) **2021.11 ~ **
 `인플루언서들을 위한 아웃링크 서비스 제공 사이트`
 <details>
   <summary>백엔드</summary>
@@ -71,11 +71,12 @@
   <summary>프론트엔드</summary>
 &nbsp;- 프로젝트 환경 구축(Nuxt.js, Vuetify)<br>  
 &nbsp;- Nuxt.js 도입을 통한 초기 로딩 속도 개선 및 SEO 강화<br>  
-&nbsp;- 반응형 웹 페이지 개발<br>  
+&nbsp;- 반응형 웹 페이지 개발<br> 
+&nbsp;- pm2, nginx를 이용한 배포<br> 
 &nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발  
 </details>
 
-#### 체크앤바이([Site Link](https://checknbuy.co.kr/))
+#### 체크앤바이([Site Link](https://checknbuy.co.kr/)) **2021.05 ~ **
 `공동구매 커머스 사이트`
 <details>
   <summary>백엔드</summary>
@@ -85,6 +86,23 @@
 <details>
   <summary>프론트엔드</summary>
 &nbsp;- 일반 상품군, 배너 캐러셀 개발<br>  
+</details>
+  
+  
+#### 사내 백오피스 **2021.05 ~ **
+`인플루언서 분석, 각 서비스별 `
+<details>
+  <summary>백엔드</summary>
+&nbsp;- 딜별 구매데이터 분석 개발<br>  
+&nbsp;- 딜 매출관리, 요약 개발<br>  
+&nbsp;- 체크앤바이, 링크 통계(유저, 시간별, 매출 등)<br>
+</details>
+<details>
+  <summary>프론트엔드</summary>
+&nbsp;- 시스템관리 개발(메뉴, 권한, 계정, 로그, 엑셀)<br>
+&nbsp;- 인플루언서 분석 개발(매칭, 비교, 관리, DM)<br>
+&nbsp;- 체크앤바이, 링크 통계<br>
+&nbsp;- 딜 제안서 및 딜리포트 개발(관리 및 알림톡 발송)<br>    
 </details>
   
   
