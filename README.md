@@ -20,10 +20,10 @@
 ### Work Experience
 
 #### (주)모빈, 플랫폼 개발, 풀스택 개발자 **2021.05 ~ 재직중** 
-  ##### 파트너센터([Site Link](https://partner.checknbuy.co.kr/))
-  `인플루언서와 브랜드사를 연결하여 공동구매를 진행하는 서비스 제공 사이트`
-  <details>
-    <summary>백엔드</summary>
+##### 파트너센터([Site Link](https://partner.checknbuy.co.kr/))
+`인플루언서와 브랜드사를 연결하여 공동구매를 진행하는 서비스 제공 사이트`
+<details>
+  <summary>백엔드</summary>
 - 브랜드사 주문관리 어드민 개발
 - 발주, 배송처리, 취소, 교환, 환불처리 등 개발
 - pg사 결제 api 연동 개발
@@ -34,14 +34,14 @@
 - 공동구매 딜 관리 개발
 - 인플루언서 및 브랜드사 매칭 건 공동구매 딜 관리
 - 공동구매 사이트 체크앤바이에 노출되는 데이터 세팅
-  </details>
-  <details>
-    <summary>프론트엔드</summary>
-      - 아키텍처 설계 및 컨벤션 정립
-      - 공통 함수 및 컴포넌트, 레이아웃 개발
-      - 라이브러리별 모듈 개발(axios, vuex)
-      - css 전처리기 도입 및 개발
-  </details> 
+</details>
+<details>
+<summary>프론트엔드</summary>
+- 아키텍처 설계 및 컨벤션 정립
+- 공통 함수 및 컴포넌트, 레이아웃 개발
+- 라이브러리별 모듈 개발(axios, vuex)
+- css 전처리기 도입 및 개발
+</details> 
   
   ##### 체크앤링크([Site Link](https://link.checknbuy.co.kr/))
   `인플루언서들을 위한 아웃링크 서비스 제공 사이트`
