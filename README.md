@@ -61,7 +61,7 @@
 </details> 
   <br>
   
-#### 크롤링 시스템 2021.11 ~ 
+#### - 크롤링 시스템 2021.11 ~ 
 `SNS 계정 육성 및 커머스 플랫폼 데이터 수집 및 트랜드 분석`
 <details>
   <summary>백엔드</summary>
@@ -80,7 +80,7 @@
 </details>   
   <br>
   
-#### 체크앤링크([Site Link](https://link.checknbuy.co.kr/)) 2021.07 ~
+#### - 체크앤링크([Site Link](https://link.checknbuy.co.kr/)) 2021.07 ~
 `인플루언서들을 위한 아웃링크 서비스 제공 사이트`
 <details>
   <summary>백엔드</summary>
@@ -99,7 +99,7 @@
 </details>
   <br>
   
-#### 체크앤바이([Site Link](https://checknbuy.co.kr/)) 2021.05 ~
+#### - 체크앤바이([Site Link](https://checknbuy.co.kr/)) 2021.05 ~
 `공동구매 커머스 사이트`
 <details>
   <summary>백엔드</summary>
@@ -112,7 +112,7 @@
 </details>
   <br>
   
-#### 사내 백오피스 2021.05 ~
+#### - 사내 백오피스 2021.05 ~
 `인플루언서 분석, 각 서비스별 `
 <details>
   <summary>백엔드</summary>
