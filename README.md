@@ -8,7 +8,7 @@
   <br> - 📫 Email : dkaskgkdua@gmail.com
   <br> - 🌱 [Blog](https://song8420.tistory.com/) 
   <br> - 🌱 [Github](https://github.com/dkaskgkdua)
-
+<br>
   
   ---
 
@@ -18,6 +18,8 @@
  떠오르는 라이크 커머스 분야에서 성공적인 서비스를 위해 도전중입니다.<br>
  Spring과 Vue, AWS를 이용하여 백엔드, 프론트 프로젝트를 설계부터 배포, 운영까지 해본 경험을 가지고 있습니다.<br>
  새로운 기술 및 트랜드를 학습하고 팀에 공유, 실제 프로젝트에 도입해보는 것을 좋아합니다. 코드를 개선하고 성능을 향상시키는 것에 성취감을 느낍니다.
+  
+  <br>
   
   ---
   <br>
