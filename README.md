@@ -34,8 +34,8 @@
   
 ## Work Experience
 
-### (주)모빈, 플랫폼 개발, 풀스택 개발자 **2021.05 ~ 재직중** 
-#### 파트너센터([Site Link](https://partner.checknbuy.co.kr/)) **2022.02 ~ **
+### (주)모빈-, 플랫폼 개발, 풀스택 개발자 **2021.05 ~ 재직중** 
+#### 파트너센터([Site Link](https://partner.checknbuy.co.kr/)) **2022.02 ~**
 `인플루언서와 브랜드사를 연결하여 공동구매를 진행하는 서비스 제공 사이트`
 <details>
   <summary>백엔드</summary>
@@ -58,7 +58,25 @@
 &nbsp;- css 전처리기 도입 및 개발<br>
 </details> 
   
-#### 체크앤링크([Site Link](https://link.checknbuy.co.kr/)) **2021.11 ~ **
+#### 크롤링 시스템 **2021.11 ~**
+`SNS 계정 육성 및 커머스 플랫폼 데이터 수집 및 트랜드 분석`
+<details>
+  <summary>백엔드</summary>
+&nbsp;- SNS 계정 육성 시스템 설계(셀레니움 사용)<br>
+&nbsp;- AWS 환경 크롤링 서버 5대 운영 및 세팅 <br>
+&nbsp;- JPA, QueryDsl 도입 및 연관관계 세팅 개발(테이블 약 20개)<br>
+&nbsp;- DM 발송 기능 개발(분석된 인플루언서 대상 제안 DM 발송 - 일평균 150건 )<br>
+&nbsp;- 커머스 플랫폼 상품 및 브랜드 정보 수집 및 데이터 분석, 트랜드 도출(월평균 100만건)<br>
+&nbsp;- 시스템 모니터링 및 로그 분석  
+</details>
+<details>
+<summary>프론트엔드</summary>
+&nbsp;- SNS 크롤링 어드민 개발(계정, 포스트, 댓글, 팔로잉 등)<br>
+&nbsp;- 커머스 크롤링 어드민 개발(카테고리, 키워드, 트랜드 등)<br>
+&nbsp;- 서버관리 어드민 개발  
+</details>   
+  
+#### 체크앤링크([Site Link](https://link.checknbuy.co.kr/)) **2021.07 ~**
 `인플루언서들을 위한 아웃링크 서비스 제공 사이트`
 <details>
   <summary>백엔드</summary>
@@ -72,11 +90,11 @@
 &nbsp;- 프로젝트 환경 구축(Nuxt.js, Vuetify)<br>  
 &nbsp;- Nuxt.js 도입을 통한 초기 로딩 속도 개선 및 SEO 강화<br>  
 &nbsp;- 반응형 웹 페이지 개발<br> 
-&nbsp;- pm2, nginx를 이용한 배포<br> 
+&nbsp;- pm2, nginx를 이용한 AWS 배포 및 <br> 
 &nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발  
 </details>
 
-#### 체크앤바이([Site Link](https://checknbuy.co.kr/)) **2021.05 ~ **
+#### 체크앤바이([Site Link](https://checknbuy.co.kr/)) **2021.05 ~**
 `공동구매 커머스 사이트`
 <details>
   <summary>백엔드</summary>
@@ -89,7 +107,7 @@
 </details>
   
   
-#### 사내 백오피스 **2021.05 ~ **
+#### 사내 백오피스 **2021.05 ~**
 `인플루언서 분석, 각 서비스별 `
 <details>
   <summary>백엔드</summary>
@@ -106,7 +124,8 @@
 </details>
   
   
-### (주)에스지유, 솔루션 개발, 풀스택 개발자 **2020.03 ~ 2021.04** SG그룹 IT계열사 
+  
+### (주)에스지유-SG그룹 IT계열사, 솔루션 개발, 풀스택 개발자 **2020.03 ~ 2021.04**  
 
 
  
