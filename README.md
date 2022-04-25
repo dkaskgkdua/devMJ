@@ -51,11 +51,19 @@
   
 #### 체크앤링크([Site Link](https://link.checknbuy.co.kr/))
 `인플루언서들을 위한 아웃링크 서비스 제공 사이트`
-- 프로젝트 환경 구축(Spring, Nuxt.js, Vuetify)
-- 반응형 웹 페이지 개발
-- Nuxt.js 도입을 통한 초기 로딩 속도 개선 및 SEO 강화
-- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발  
-  
+<details>
+  <summary>백엔드</summary>
+&nbsp;- 프로젝트 환경 구축(Spring)<br>  
+&nbsp;- AOP를 이용한 Transaction 처리(횡단 관심사 분리)  
+&nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발
+</details>
+<details>
+  <summary>프론트엔드</summary>
+&nbsp;- 프로젝트 환경 구축(Nuxt.js, Vuetify)
+&nbsp;- Nuxt.js 도입을 통한 초기 로딩 속도 개선 및 SEO 강화
+&nbsp;- 반응형 웹 페이지 개발
+&nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발  
+</details>
 
 ### (주)에스지유, 솔루션 개발, 풀스택 개발자 **2020.03 ~ 2021.04** SG그룹 IT계열사 
 
