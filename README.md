@@ -18,14 +18,13 @@
  Spring과 Vue, AWS를 이용하여 백엔드, 프론트 프로젝트를 설계부터 배포, 운영까지 해본 경험을 가지고 있습니다.<br>
  새로운 기술 및 트랜드를 학습하고 팀에 공유, 실제 프로젝트에 도입해보는 것을 좋아합니다. 코드를 개선하고 성능을 향상시키는 것에 성취감을 느낍니다.
   
-<br>
   ---
   <br>
   
 ## Tech  
 <image src="https://user-images.githubusercontent.com/56568571/107945025-5ed89680-6fd2-11eb-8267-3eedb9c2ccac.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/162583121-ef8ada41-c996-4bf9-9deb-381b8a2af28d.svg" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945889-9d228580-6fd3-11eb-873c-1919bb065a90.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945824-8845f200-6fd3-11eb-91e0-33e0a1a3b92e.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945808-82501100-6fd3-11eb-83a6-2a2da0d71ae4.png" height="50" width="50"> <image src="https://kr.vuejs.org/images/logo.png" height="50" width="50"> 
   
-  <br>
+
   ---
   <br>
   
@@ -62,6 +61,7 @@
 &nbsp;- 프로젝트 환경 구축(Spring)<br>  
 &nbsp;- AOP를 이용한 Transaction 처리(횡단 관심사 분리)  <br>  
 &nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발
+&nbsp;- 링크관리 기능 테스트코드 작성  
 </details>
 <details>
   <summary>프론트엔드</summary>
@@ -71,6 +71,19 @@
 &nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발  
 </details>
 
+#### 체크앤바이([Site Link](https://checknbuy.co.kr/))
+`공동구매 커머스 사이트`
+<details>
+  <summary>백엔드</summary>
+&nbsp;- 인플루언서, 상품 추천 큐레이션 api개발<br>  
+&nbsp;- 공동구매 알림톡 스케줄러 개발  <br>  
+</details>
+<details>
+  <summary>프론트엔드</summary>
+&nbsp;- 일반 상품군, 배너 캐러셀 개발<br>  
+</details>
+  
+  
 ### (주)에스지유, 솔루션 개발, 풀스택 개발자 **2020.03 ~ 2021.04** SG그룹 IT계열사 
 
 
