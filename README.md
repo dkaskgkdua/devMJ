@@ -90,7 +90,7 @@
   <summary>백엔드</summary>
 &nbsp;- 프로젝트 환경 구축(Spring)<br>  
 &nbsp;- AOP를 이용한 Transaction 처리(횡단 관심사 분리)  <br>  
-&nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발
+&nbsp;- 메인화면, 로그인, 회원가입, 마이페이지, 링크관리, 통계, Q&A 등 전체 기능 개발<br>
 &nbsp;- 링크관리 기능 테스트코드 작성  
 </details>
 <details>
